@@ -12,7 +12,13 @@ Aplikasi ini dibuat untuk keperluan Ujian Akhir Semester (UAS) pada mata kuliah 
 
 **[Disclaimer]**: Semua data yang ditampilkan adalah simulasi dan tidak mewakili data kendaraan sebenarnya.  
 
-## Teknologi yang Digunakan
+### Teknologi yang Digunakan
 - **Bahasa Pemrograman**: Kotlin
 - **Backend-as-a-Service**: Firebase (Authentication, Realtime Database)
 - **IDE**: Android Studio
+
+### Anggota Kelompok:
+- **Gevira Zahra Shofa** (1227050050)
+- **Ichlashul Amal Santosa** (1227050054)
+- **Moch Rifky Aulia Adikusumah** (1227050072)
+- **Muhammad Arkan Raihan** (1227050085)
