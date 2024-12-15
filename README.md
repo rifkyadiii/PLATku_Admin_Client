@@ -1,7 +1,7 @@
 # PLATku Admin-Cliet
-PLATku Admin adalah aplikasi yang dirancang untuk pengelolaan data plat nomor kendaraan secara efisien. Aplikasi ini memungkinkan admin untuk mengelola dan memperbarui data kendaraan yang nantinya dapat diakses oleh pengguna aplikasi PLATku Client.
+**PLATku Admin** adalah aplikasi yang dirancang untuk pengelolaan data plat nomor kendaraan secara efisien. Aplikasi ini memungkinkan admin untuk mengelola dan memperbarui data kendaraan yang nantinya dapat diakses oleh pengguna aplikasi **PLATku Client**.
 
-PLATku Client adalah aplikasi pengecekan plat nomor kendaraan yang memungkinkan pengguna untuk mengakses informasi kendaraan berdasarkan data yang telah dikelola oleh admin melalui aplikasi PLATku Admin.
+**PLATku Client** adalah aplikasi pengecekan plat nomor kendaraan yang memungkinkan pengguna untuk mengakses informasi kendaraan berdasarkan data yang telah dikelola oleh admin melalui aplikasi **PLATku Admin**.
 
 **Fitur Utama:**  
 - **Cek Plat Nomor:** Lakukan pengecekan data plat nomor kendaraan dengan mudah.  
