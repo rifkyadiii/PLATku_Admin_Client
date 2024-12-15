@@ -1,8 +1,4 @@
 # PLATku Admin-Cliet
-**Deskripsi Play Store**  
-
-**PLATku Admin-Client**  
-
 PLATku Admin-Client adalah aplikasi yang dirancang untuk membantu pengecekan plat nomor kendaraan secara praktis dan cepat. Semua data dalam aplikasi ini bersifat dummy (hanya untuk simulasi) dan digunakan sebagai bagian dari proyek pengembangan aplikasi mobile.  
 
 **Fitur Utama:**  
@@ -14,10 +10,7 @@ PLATku Admin-Client adalah aplikasi yang dirancang untuk membantu pengecekan pla
 **Catatan Penting:**  
 Aplikasi ini dibuat untuk keperluan Ujian Akhir Semester (UAS) pada mata kuliah Pengembangan Aplikasi Mobile dan tidak menggunakan data resmi dari pihak terkait.  
 
-Unduh sekarang dan temukan kemudahan dalam mengecek data plat nomor kendaraan!  
-
 **[Disclaimer]**: Semua data yang ditampilkan adalah simulasi dan tidak mewakili data kendaraan sebenarnya.  
-
 
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman**: Kotlin
