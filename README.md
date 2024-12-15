@@ -1,7 +1,25 @@
-# Aplikasi PLATku Admin-Cliet
-PLATku Admin-Client adalah aplikasi yang dirancang untuk mendukung pengelolaan layanan administrasi dan interaksi antara admin dan pengguna dalam suatu platform. Aplikasi ini dikembangkan menggunakan Firebase sebagai backend untuk menyimpan data secara real-time dan menyediakan autentikasi pengguna yang aman. Sedangkan untuk pengembangan aplikasi, digunakan bahasa Kotlin untuk menghadirkan performa tinggi serta antarmuka pengguna yang responsif.
+# PLATku Admin-Cliet
+**Deskripsi Play Store**  
+
+**PLATku Admin-Client**  
+
+PLATku Admin-Client adalah aplikasi yang dirancang untuk membantu pengecekan plat nomor kendaraan secara praktis dan cepat. Semua data dalam aplikasi ini bersifat dummy (hanya untuk simulasi) dan digunakan sebagai bagian dari proyek pengembangan aplikasi mobile.  
+
+**Fitur Utama:**  
+- **Cek Plat Nomor:** Lakukan pengecekan data plat nomor kendaraan dengan mudah.  
+- **Manajemen Data:** Akses data kendaraan dalam format yang sederhana dan terorganisir.  
+- **Firebase Integration:** Keamanan dan kecepatan akses data menggunakan teknologi berbasis Firebase.  
+- **User-Friendly Design:** Tampilan antarmuka yang intuitif untuk pengalaman pengguna yang optimal.  
+
+**Catatan Penting:**  
+Aplikasi ini dibuat untuk keperluan Ujian Akhir Semester (UAS) pada mata kuliah Pengembangan Aplikasi Mobile dan tidak menggunakan data resmi dari pihak terkait.  
+
+Unduh sekarang dan temukan kemudahan dalam mengecek data plat nomor kendaraan!  
+
+**[Disclaimer]**: Semua data yang ditampilkan adalah simulasi dan tidak mewakili data kendaraan sebenarnya.  
+
 
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman**: Kotlin
-- **Backend-as-a-Service**: Firebase (Authentication, Realtime Database, Cloud Messaging)
+- **Backend-as-a-Service**: Firebase (Authentication, Realtime Database)
 - **IDE**: Android Studio
