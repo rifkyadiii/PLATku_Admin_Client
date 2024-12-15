@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PLATku Admin</string>
+    <string name="upload">Upload</string>
+    <string name="nama_pemilik1">Pemilik</string>
+    <string name="merk_kendaraan1">Merk/Type</string>
+    <string name="wilayah1">Wilayah</string>
+    <string name="nama_pemilik">Pemilik \t\t\t\t\t:</string>
+    <string name="merk_kendaraan">Merk/Type :</string>
+    <string name="wilayah">Wilayah \t\t\t\t:</string>
+    <string name="nomor_polisi">Nomor Polisi</string>
+    <string name="simpan">Simpan</string>
+    <string name="backButton">Kembali</string>
+    <string name="update">Update</string>
+    <string name="cari_data">Cari Data</string>
+    <string name="cari_nomor_polisi">Masukan Nomor Polisi</string>
+    <string name="cari">Cari</string>
+    <string name="keluar">Keluar</string>
+    <string name="kelola">Manage</string>
+    <string name="hapus">Hapus</string>
+    <string name="about">Tentang Kami</string>
+</resources>

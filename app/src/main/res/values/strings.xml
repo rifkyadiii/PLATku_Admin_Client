@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PLATku</string>
+    <string name="cari_nomor_polisi">Masukan Nomor Polisi</string>
+    <string name="cari">Cari</string>
+    <string name="nama_pemilik">Pemilik \t\t\t\t\t:</string>
+    <string name="merk_kendaraan">Merk/Type :</string>
+    <string name="wilayah">Wilayah \t\t\t\t:</string>
+    <string name="about">Tentang Kami</string>
+    <string name="keluar">Keluar</string>
+    <string name="backButton">Kembali\n</string>
+</resources>
