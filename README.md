@@ -27,12 +27,17 @@ Aplikasi ini dibuat untuk keperluan Ujian Akhir Semester (UAS) pada mata kuliah 
 
 ## Tampilan
 ### PLATku Client
-![image](https://github.com/user-attachments/assets/4ff11a14-5ec9-4cc9-b8d7-a320bcb16662) | | | |
-|---|---|---|---|
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ff11a14-5ec9-4cc9-b8d7-a320bcb16662" width="250">
+</p>
 
-### Platku Admin
-| ![image](https://github.com/user-attachments/assets/7d8ba704-a05a-4ff1-a79c-12af90ffe366) | ![image](https://github.com/user-attachments/assets/b841de75-5c82-461a-95b6-2f20d21924e5) | ![image](https://github.com/user-attachments/assets/774c3ab8-0c89-45a7-a788-dcf9961c7c26) | ![image](https://github.com/user-attachments/assets/889a5e3d-66a2-4379-a56f-df4d18897e07) |
+### PLATku Admin
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d8ba704-a05a-4ff1-a79c-12af90ffe366" width="200">
+  <img src="https://github.com/user-attachments/assets/b841de75-5c82-461a-95b6-2f20d21924e5" width="200">
+  <img src="https://github.com/user-attachments/assets/774c3ab8-0c89-45a7-a788-dcf9961c7c26" width="200">
+  <img src="https://github.com/user-attachments/assets/889a5e3d-66a2-4379-a56f-df4d18897e07" width="200">
+</p>
 
-|---|---|---|---|
 
 
